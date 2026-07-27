@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-25 19:37:53,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
+2026-07-27 21:24:20,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
@@ -21,19 +21,19 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8$订阅源
 浙江教育,http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8$订阅源
 浙江民生,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8$订阅源
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
 浙江教科,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8$订阅源
 浙江经济,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8$订阅源
-之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8$订阅源
 之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8$订阅源
-浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8$订阅源
+之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8$订阅源
 浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?zzhed$订阅源
+浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8$订阅源
 嘉兴新闻综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8$订阅源
 浙江经视,http://ali-m-l.cztv.com/channels/lantian/channel003/720p.m3u8$订阅源
 浙江留学,https://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8$订阅源
-浙江数码时代,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8\r\n$订阅源
 浙江数码时代,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8$订阅源
+浙江数码时代,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8\r\n$订阅源
 浙江教科影院,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8$订阅源
 浙江教科影视,http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8$订阅源
 浙江休闲台,http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8$订阅源
@@ -58,8 +58,8 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 余杭综合,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl$订阅源
 余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl$订阅源
 余姚姚江文化,https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8$订阅源
-中国蓝新闻,https://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8$订阅源
 中国蓝新闻,http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8$订阅源
+中国蓝新闻,https://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8$订阅源
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8$订阅源
 上虞文化影视,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8$订阅源
 
@@ -104,8 +104,8 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 陕西体育休闲,https://live.chinacert.cftest5.cn/cnmg/live/956909356$订阅源
 
 ☘️福建频道,#genre#
-三明新闻综合,http://ls.qingting.fm/live/4885.m3u8$订阅源
 三明新闻综合,https://ls.qingting.fm/live/5022100/64k.m3u8$订阅源
+三明新闻综合,http://ls.qingting.fm/live/4885.m3u8$订阅源
 云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian,$订阅源
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8$订阅源
 福州综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8$订阅源
@@ -120,8 +120,8 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 河北都市,rtmp://tv.pull.hebtv.com/jishi/dushipindao?t=2510710360&k=b43f406360a945d199904faf3b6e2c18$订阅源
 河北都市,https://event.pull.hebtv.com/jishi/dushipindao.m3u8$订阅源
 河北农民,https://event.pull.hebtv.com/jishi/nongminpindao.m3u8$订阅源
-河北农民,http://ls.qingting.fm/live/1650.m3u8$订阅源
 河北农民,https://ls.qingting.fm/live/1650/64k.m3u8$订阅源
+河北农民,http://ls.qingting.fm/live/1650.m3u8$订阅源
 
 ☘️贵州频道,#genre#
 安顺新闻,https://ls.qingting.fm/live/5022203/64k.m3u8$订阅源
@@ -189,8 +189,8 @@ CCTV-5,https://live.chinacert.cftest5.cn/cnmg/live/641886683$订阅源
 五星体育,https://cdn.qd.je/163189/wxty$订阅源
 
 🪁动画频道,#genre#
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
 河北少儿科教,https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8$订阅源
 
 🎮游戏频道,#genre#
